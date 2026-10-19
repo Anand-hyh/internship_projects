@@ -1,3 +1,2 @@
 # internship_projects
-Internship on Data Analytics
-Doing internship on internvision on Data Analytics
+Contiains my final project submission of both major and minor project 
